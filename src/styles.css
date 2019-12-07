@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+
+body {
+    background-image: url(https://hdwallpapers.imgix.net/freestockphotos-44081564759670bbxfkukow6.jpg?auto=compress&cs=tinysrgb&dpr=1);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
